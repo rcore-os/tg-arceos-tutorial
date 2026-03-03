@@ -1,0 +1,45 @@
+[submodule "app-helloworld"]
+	path = app-helloworld
+	url = git@github.com:arceos-org/app-helloworld.git
+[submodule "app-collections"]
+	path = app-collections
+	url = git@github.com:arceos-org/app-collections.git
+[submodule "app-readpflash"]
+	path = app-readpflash
+	url = git@github.com:arceos-org/app-readpflash.git
+[submodule "app-childtask"]
+	path = app-childtask
+	url = git@github.com:arceos-org/app-childtask.git
+[submodule "app-msgqueue"]
+	path = app-msgqueue
+	url = git@github.com:arceos-org/app-msgqueue.git
+[submodule "app-fairsched"]
+	path = app-fairsched
+	url = git@github.com:arceos-org/app-fairsched.git
+[submodule "app-readblk"]
+	path = app-readblk
+	url = git@github.com:arceos-org/app-readblk.git
+[submodule "app-loadapp"]
+	path = app-loadapp
+	url = git@github.com:arceos-org/app-loadapp.git
+[submodule "app-userprivilege"]
+	path = app-userprivilege
+	url = git@github.com:arceos-org/app-userprivilege.git
+[submodule "app-lazymapping"]
+	path = app-lazymapping
+	url = git@github.com:arceos-org/app-lazymapping.git
+[submodule "app-runlinuxapp"]
+	path = app-runlinuxapp
+	url = git@github.com:arceos-org/app-runlinuxapp.git
+[submodule "app-guestmode"]
+	path = app-guestmode
+	url = git@github.com:arceos-org/app-guestmode.git
+[submodule "app-guestaspace"]
+	path = app-guestaspace
+	url = git@github.com:arceos-org/app-guestaspace.git
+[submodule "app-guestvdev"]
+	path = app-guestvdev
+	url = git@github.com:arceos-org/app-guestvdev.git
+[submodule "app-guestmonolithickernel"]
+	path = app-guestmonolithickernel
+	url = git@github.com:arceos-org/app-guestmonolithickernel.git
